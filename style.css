@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    
+}
+main{
+
+    font-size: 20px;
+}
+
+
+
+img{
+
+    padding: 20px;
+    width: 100%;
+}
+div{
+    text-align: center ;
+    color: rgb(36, 10, 10);
+    background-color: rgb(207, 138, 138);
+}
